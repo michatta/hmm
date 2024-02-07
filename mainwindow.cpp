@@ -6,6 +6,10 @@
 #include <QPixmap>
 #include <QMessageBox>
 
+//내용 추가
+//소스코드 변경
+//함수든 뭐든 추가한다고 가정해봅시다.
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), ui(new Ui::MainWindow)
 {
